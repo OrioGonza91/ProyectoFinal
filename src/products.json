@@ -1,0 +1,11 @@
+[{
+    "id": "a2e1a666-3ed6-49d1-986e-cd1f6fda900b",
+    "title": "PRODUCTO DE PRUEBA 1",
+    "description": "PROBANDO POST CON POSTMAN 1",
+    "price": 400,
+    "thumbnail": "./assets/POSTMAN2.jpg",
+    "code": "mt1",
+    "stock": 11,
+    "status": "false",
+    "category": "prueba"
+}]
